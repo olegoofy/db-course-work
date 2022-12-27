@@ -124,4 +124,7 @@
   Answer "1, 1" <-u- "0, *" SelectedOption
   SelectedOption "1, 1" <-u- "0, *" Option
 @enduml
+
+## Реляційна схема
+
 ![Реляційна схема](https://user-images.githubusercontent.com/89361346/209463050-e4a66fb2-72d0-4b6a-8ff7-8afc797e15c1.png)
